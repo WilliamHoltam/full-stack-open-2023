@@ -4,6 +4,7 @@ const Footer = () => {
     fontStyle: 'italic',
     fontSize: 16
   }
+
   return (
     <div style={footerStyle}>
       <br />
