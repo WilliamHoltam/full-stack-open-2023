@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+module.exports = app
+{
+  "title": "A new blog post",
+  "author": "Helmon Rompoy",
+  "Url": "www.test.net",
+  "likes": 5
+}
